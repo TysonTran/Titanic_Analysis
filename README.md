@@ -1,5 +1,5 @@
 # Titanic_Analysis
-This is a Exploratory Data Analysis of the titanic dataset from Kaggle with the ML model. I was exploring the data to see what caused individuals to have a better chance of survival and created a ML model to predict who would survive and who wouldn't.
+This is a Exploratory Data Analysis of the titanic dataset from Kaggle with a ML model. I was exploring the data to see what caused individuals to have a better chance of survival and created a ML model to predict who would survive and who wouldn't.
 
 ## Findings
 
